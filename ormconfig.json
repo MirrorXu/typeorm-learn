@@ -1,4 +1,10 @@
 {
+   "type": "mysql",
+   "host": "localhost",
+   "port": 3306,
+   "username": "root",
+   "password": "xu19920511",
+   "database": "typeorm",
    "synchronize": true,
    "logging": false,
    "entities": [
